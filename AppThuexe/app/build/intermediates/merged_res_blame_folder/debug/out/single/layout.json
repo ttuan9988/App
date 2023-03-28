@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trg_admin.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_trg_admin.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chitietxemphieu.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_chitietxemphieu.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_vitrix.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_vitrix.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chinhsua_oto.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_chinhsua_oto.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trang_chu.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_trang_chu.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chitietduyet.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_chitietduyet.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_danhsach_oto.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_danhsach_oto.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dsbatdv.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_dsbatdv.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_marker_layout.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\custom_marker_layout.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dang_ky.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_guidvxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_guidvxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_xemphieu.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_xemphieu.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trang_ql.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_trang_ql.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chon_sdt.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_chon_sdt.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nap_tien.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_nap_tien.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dsxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_dsxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nhap_ma_otp.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_nhap_ma_otp.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trgdatxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_trgdatxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chitietxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_chitietxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_duyetdatxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_duyetdatxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\listxe.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\listxe.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_thanhtoan.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_thanhtoan.xml"
+    },
+    {
+        "merged": "D:\\API\\AppThuexe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_them_oto.xml",
+        "source": "D:\\API\\AppThuexe\\app\\src\\main\\res\\layout\\activity_them_oto.xml"
+    }
+]
