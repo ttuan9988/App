@@ -1,0 +1,15 @@
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\Lib.deps.json
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\Lib.runtimeconfig.json
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\Lib.runtimeconfig.dev.json
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\Lib.dll
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\ref\Lib.dll
+D:\API\APIthuexe\Lib\bin\Debug\net5.0\Lib.pdb
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.dll
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\ref\Lib.dll
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.pdb
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.genruntimeconfig.cache
+D:\API\APIthuexe\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache

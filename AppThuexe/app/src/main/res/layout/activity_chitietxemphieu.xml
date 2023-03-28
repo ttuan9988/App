@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThongTinTK.chitietxemphieu">
+
+    <TextView
+        android:id="@+id/txtdx"
+        android:layout_width="327dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text=""
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txttxx" />
+
+    <TextView
+        android:id="@+id/txttxx"
+        android:layout_width="327dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txttcx" />
+
+    <TextView
+        android:id="@+id/txttcx"
+        android:layout_width="327dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text=""
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtntx" />
+
+    <TextView
+        android:id="@+id/txtntx"
+        android:layout_width="327dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text=""
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtndx" />
+
+    <TextView
+        android:id="@+id/txtndx"
+        android:layout_width="327dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text=""
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txttgx" />
+
+    <TextView
+        android:id="@+id/txttgx"
+        android:layout_width="327dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="124dp"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

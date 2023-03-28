@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5071fc5f-bcde-466c-95cb-f4d458d23cc6": {
+      "ProjectGuid": "5071fc5f-bcde-466c-95cb-f4d458d23cc6",
+      "DisplayName": "Lib",
+      "ColorIndex": 0
+    },
+    "27a2e35a-5058-4efc-8c7c-f473fd1f228f": {
+      "ProjectGuid": "27a2e35a-5058-4efc-8c7c-f473fd1f228f",
+      "DisplayName": "APIthuexe",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

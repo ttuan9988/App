@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/API/AppThuexe/app/src/main/res/drawable/vien.xml" value="0.1574074074074074" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout-w1240dp/activity_trang_chu.xml" value="0.109765625" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout-w1240dp/custom_marker_layout.xml" value="0.125390625" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout-w936dp/activity_trang_chu.xml" value="0.1" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_chinhsua_oto.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_chitietduyet.xml" value="0.22" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_chitietxe.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_chitietxemphieu.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_chon_sdt.xml" value="0.1431159420289855" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_dang_ky.xml" value="0.19" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_danhsach_oto.xml" value="0.22" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_dsbatdv.xml" value="0.2" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_dsxe.xml" value="0.1453804347826087" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_duyetdatxe.xml" value="0.16802536231884058" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_guidvxe.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_nap_tien.xml" value="0.1272644927536232" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_nhap_ma_otp.xml" value="0.1431159420289855" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_thanhtoan.xml" value="0.1272644927536232" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_them_oto.xml" value="0.22" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_trang_chu.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_trang_chu2.xml" value="0.1272644927536232" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_trang_ql.xml" value="0.2" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_trg_admin.xml" value="0.22" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_trgdatxe.xml" value="0.25" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_vitrix.xml" value="0.1094224924012158" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_vitrixe.xml" value="0.1453804347826087" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/activity_xemphieu.xml" value="0.1503623188405797" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/custom_marker_layout.xml" value="0.1453804347826087" />
+        <entry key="..\:/API/AppThuexe/app/src/main/res/layout/listxe.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
